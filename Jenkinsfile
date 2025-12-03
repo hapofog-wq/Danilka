@@ -15,10 +15,10 @@ pipeline {
                     echo "      LABORATORY WORK #7: CI/CD FOR OpenBMC"
                     echo "=============================================="
                     echo ""
-                    echo "✅ COMPLETION CERTIFICATE"
+                    echo " COMPLETION CERTIFICATE"
                     echo ""
                     echo "STUDENT: Danil Spector"
-                    echo "GROUP: Your group"
+                    echo "GROUP: IP312"
                     echo "DATE: $(date)"
                     echo ""
                     echo "REPOSITORY: https://github.com/hapofog-wq/Danilka"
@@ -74,12 +74,12 @@ pipeline {
 - `reports/` - Generated artifacts
 
 ### Verification:
-- Jenkins Pipeline: ✅ Configured and working
-- OpenBMC Files: ✅ Available in repository
-- Test Scripts: ✅ Implemented and ready
-- CI/CD Flow: ✅ Successfully demonstrated
+- Jenkins Pipeline:  Configured and working
+- OpenBMC Files:  Available in repository
+- Test Scripts:  Implemented and ready
+- CI/CD Flow:  Successfully demonstrated
 
-**Status:** ✅ LABORATORY WORK COMPLETED SUCCESSFULLY
+**Status:**  LABORATORY WORK COMPLETED SUCCESSFULLY
 
 ---
 *This certificate confirms completion of Laboratory Work #7*
@@ -95,7 +95,7 @@ CERTIFICATE
     
     post {
         success {
-            echo "🎉 LAB 7 SUCCESSFULLY COMPLETED!"
+            echo " LAB 7 SUCCESSFULLY COMPLETED!"
             echo "All requirements satisfied. Ready for submission."
         }
     }
