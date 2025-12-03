@@ -12,11 +12,11 @@ class OpenBMCConfig:
         self.base_url = "https://localhost:2443"
         self.credentials = {
             "valid": {
-                "username": "vostrik",
+                "username": "Danik",
                 "password": "Lolkek123"
             },
             "invalid": {
-                "username": "vostrik", 
+                "username": "Danik", 
                 "password": "wrongpass"
             }
         }
